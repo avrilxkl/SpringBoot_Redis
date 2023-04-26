@@ -17,6 +17,8 @@ class SpringBootRedisApplicationTests {
         System.out.println("刘亦菲");
         System.out.println("鞠婧祎");
         System.out.println("邓紫棋");
+        System.out.println("大奶奶");
+        
     }
 
 }
