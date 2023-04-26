@@ -18,6 +18,8 @@ class SpringBootRedisApplicationTests {
     void contextLoads() {
         System.out.println("陈妍希");
         System.out.println("茯苓");
+        System.out.println("小桃子");
+        System.out.println("刘亦菲");
     }
 
 }
