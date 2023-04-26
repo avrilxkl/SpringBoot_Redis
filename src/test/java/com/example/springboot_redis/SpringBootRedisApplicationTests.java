@@ -11,16 +11,12 @@ import javax.annotation.Resource;
 @SpringBootTest
 class SpringBootRedisApplicationTests {
 
-    @Autowired
-    private StringRedisTemplate redisTemplate;
 
 
 
     @Test
     void contextLoads() {
-        ValueOperations<String, String> ops = redisTemplate.opsForValue();
-        ops.set("cyx","520");
-        System.out.println(ops.get("陈妍希"));
+        System.out.println("陈妍希");
     }
 
 }
