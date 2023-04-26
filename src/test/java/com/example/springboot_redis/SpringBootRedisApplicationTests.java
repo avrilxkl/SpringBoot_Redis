@@ -17,6 +17,7 @@ class SpringBootRedisApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("陈妍希");
+        System.out.println("茯苓");
     }
 
 }
